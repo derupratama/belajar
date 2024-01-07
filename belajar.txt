@@ -1,0 +1,4 @@
+Ini adalah awal dari belajar git
+1. Belajar dari awal git
+2. Mencoba Git
+3. Melakukan Project
