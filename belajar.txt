@@ -2,4 +2,4 @@ Ini adalah awal dari belajar git
 1. Belajar dari awal git
 2. Mencoba Git
 3. Melakukan Project
-4. Evaluasi Proejct
+4. Evaluasi Project
